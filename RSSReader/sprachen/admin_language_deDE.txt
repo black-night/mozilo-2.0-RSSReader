@@ -1,0 +1,12 @@
+config_RSSReader_plugin_name              = black-night - RSSReader
+config_RSSReader_plugin_desc              = Liest einen RSS Feed und gibt diesen als Formatiertes HTML wieder aus. Der Feed wird dabei zwischengespeichert und nur wenn nötig neu geladen<br /><br /><span style="font-weight:bold;">Nutzung:</span><br />{RSSReader|URL_ZUM_FEED} <br /><br />Für die Verarbeitung wird <a href="http://www.simplepie.org">SimplePie</a> verwendet. 
+config_RSSReader_show                     = RSS Feed anzeigen.
+config_RSSReader_number_regex_error       = nur Zahlen erlaubt!
+config_RSSReader_CacheDuration            = Sekunden die der Feed aus dem Zwischenspeicher geladen werden soll (Standard 3600).
+config_RSSReader_OrderByDate              = Einträge nach Datum sortieren, neuster zu erst?
+config_RSSReader_ShowMaxItems             = Maximale Anzahl an Einträgen, die angezeigt werden sollen (leer = alle Anzeigen).
+config_RSSReader_RSSTitle                 = RSS Feed Überschrift anzeigen?
+config_RSSReader_RSSItemDate              = Zu jedem Eintrag das Datum anzeigen?
+config_RSSReader_RSSItemDes               = Zu jedem Eintrag die Beschreibung anzeigen?
+config_RSSReader_RSSItemTitle             = Zu jedem Eintrag den Titel anzeigen?
+config_RSSReader_RSSItemTitleLink         = Zu jedem Eintrag den Titel als Link anzeigen?

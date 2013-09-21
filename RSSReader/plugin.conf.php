@@ -1,0 +1,2 @@
+<?php die(); ?>
+a:9:{s:6:"active";s:5:"false";s:13:"order_by_date";s:4:"true";s:14:"cache_duration";s:4:"3600";s:14:"show_max_items";s:0:"";s:10:"show_title";s:4:"true";s:20:"show_item_title_link";s:4:"true";s:14:"show_item_date";s:4:"true";s:13:"show_item_des";s:4:"true";s:15:"show_item_title";s:4:"true";}

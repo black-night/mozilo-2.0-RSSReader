@@ -1,0 +1,43 @@
+.RSSReaderError{ 
+  padding:5px;
+  color: #7F0000;
+  font-weight:bold;
+  border:1px solid #7F0000;   
+  box-shadow: 0px 0px 5px #7F0000;    
+}
+
+.RSSReaderTitle{
+  padding:5px;
+  color: #000000;
+  background-color:#DBDBDB;
+  box-shadow: 5px 5px 10px #DBDBDB;
+  width: 580px;	
+}
+
+.RSSReaderTitleDescription{
+  color: #404040;	
+}
+
+.RSSReaderItem {
+  margin-left:15px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #000000;
+  width: 550px;	  
+}
+.RSSReaderItemTitle {
+  margin-top: 10px;
+  font-weight:bold;
+  background-color:#DBDBDB;
+  box-shadow: 5px 5px 10px #DBDBDB;  
+}
+
+.RSSReaderItemDate {
+  margin-top: 3px;
+  float: right; 
+  text-align:right;  
+}
+
+.RSSReaderItemDescription {	
+  margin-top: 19px;  
+}
